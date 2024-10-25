@@ -9,17 +9,18 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f9;
+    background-color: #1e1e1e;
     font-family: Arial, sans-serif;
+    color: #e0e0e0;
 }
 
 .container {
     text-align: center;
     padding: 20px;
-    border: 1px solid #ddd;
+    border: 1px solid #333;
     border-radius: 10px;
-    background-color: #fff;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #2c2c2c;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     max-width: 600px;
 }
 
@@ -30,17 +31,17 @@ body {
 
 h1 {
     font-size: 2.5em;
-    color: #333;
+    color: #f0f0f0;
 }
 
 p {
     margin-top: 10px;
     font-size: 1.2em;
-    color: #666;
+    color: #c0c0c0;
 }
 
 .description {
     font-size: 1em;
-    color: #555;
+    color: #a0a0a0;
     margin-top: 20px;
 }
